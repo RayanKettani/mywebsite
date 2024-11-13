@@ -3,5 +3,8 @@ img {
 }
 body {
     text-align: center;
-    font-family: 'helvetica';
+    font-family: 'Helvetica';
+    background: skyblue;
+    color: green;
+
 }
